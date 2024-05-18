@@ -164,6 +164,7 @@ https://www.w3.org/2003/entities/2007/w3centities-f.ent
 <!-- b) Third party URLs: -->
 <!ENTITY url-av "https://www.alphavantage.co/"> <!-- A F::Q source, which requires registration -->
 <!ENTITY url-ap-dev "https://developer.apple.com/">
+<!ENTITY url-cf "https://currencyfreaks.com/">
 <!ENTITY url-cpan "https://www.cpan.org/">  <!-- Comprehensive Perl Archive Network -->
 <!ENTITY url-fints "https://www.hbci-zka.de/">
 <!ENTITY url-fsf "https://www.fsf.org/">

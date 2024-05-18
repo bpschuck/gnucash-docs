@@ -83,8 +83,9 @@
               </entry>
 
               <entry>
-                <para>End of 2017 the provider changed. Make sure, you updated F::Q to at least version 1.47 and follow
-                  the instructions at Alphavantage below.
+                <para>End of 2017 the provider changed. Make sure, you updated F::Q to at least version 1.47 and follow the instructions at Alphavantage below.
+                </para>
+                <para>Alternate sources for currency conversions include YahooJSON and CurrencyFreaks. CurrencyFreaks requires an API key available by registering at <ulink url="&url-cf;"/>. Set the environment variable FQ_CURRENCY to "YahooJSON" or "CurrencyFreaks" to use one of these alternate currency sources.
                 </para>
               </entry>
             </row>
@@ -174,51 +175,15 @@
 
             <row>
               <entry>
-                <para>American International Assurance, HK
-                </para>
-              </entry>
-
-              <entry>
-                <para>aiahk
-                </para>
-              </entry>
-
-              <entry>
-                <para><ulink url="https://www.aia.com.hk"/>
-                </para>
-              </entry>
-            </row>
-
-            <row>
-              <entry>
-                <para>Association of Mutual Funds In India, IN
-                </para>
-              </entry>
-
-              <entry>
-                <para>amfiindia
-                </para>
-              </entry>
-
-              <entry>
-                <para><ulink url="https://www.amfiindia.com"/>
-                </para>
-              </entry>
-            </row>
-
-            <row>
-              <entry>
                 <para>Athens Stock Exchange, GR
                 </para>
               </entry>
-
               <entry>
                 <para>asegr
                 </para>
               </entry>
-
               <entry>
-                <para><ulink url="https://www.ase.gr"/>
+                <para><ulink url="https://www.athexgroup.gr/"/>
                 </para>
               </entry>
             </row>
@@ -246,40 +211,6 @@
 
             <row>
               <entry>
-                <para>BAMOSZ funds, HU
-                </para>
-              </entry>
-
-              <entry>
-                <para>bamosz
-                </para>
-              </entry>
-
-              <entry>
-                <para><ulink url="https://www.bamosz.hu"/>
-                </para>
-              </entry>
-            </row>
-
-            <row>
-              <entry>
-                <para>BMO NesbittBurns, CA
-                </para>
-              </entry>
-
-              <entry>
-                <para>bmonesbittburns
-                </para>
-              </entry>
-
-              <entry>
-                <para><ulink url="https://bmonesbittburns.com"/>
-                </para>
-              </entry>
-            </row>
-
-            <row>
-              <entry>
                 <para>Bucharest Stock Exchange (Bursa de Valori Bucuresti), RO
                 </para>
               </entry>
@@ -297,40 +228,6 @@
 
             <row>
               <entry>
-                <para>Budapest Stock Exchange (BET), ex-BUX, HU
-                </para>
-              </entry>
-
-              <entry>
-                <para>bse or bet
-                </para>
-              </entry>
-
-              <entry>
-                <para><ulink url="https://www.bet.hu"/>
-                </para>
-              </entry>
-            </row>
-
-            <row>
-              <entry>
-                <para>Citywire Funds, GB
-                </para>
-              </entry>
-
-              <entry>
-                <para>citywire
-                </para>
-              </entry>
-
-              <entry>
-                <para><ulink url="https://citywire.co.uk"/>
-                </para>
-              </entry>
-            </row>
-
-            <row>
-              <entry>
                 <para>Colombo Stock Exchange, LK
                 </para>
               </entry>
@@ -342,26 +239,6 @@
 
               <entry>
                 <para><ulink url="https://www.cse.lk"/>
-                </para>
-              </entry>
-            </row>
-
-            <row>
-              <entry>
-                <para>Cominvest Asset Management, ex-Adig, DE
-                </para>
-              </entry>
-
-              <entry>
-                <para>cominvest
-                </para>
-              </entry>
-
-              <entry>
-                <para><ulink url="https://www.cominvest-am.de"/>
-                </para>
-
-                <para>Obsolete, update: <ulink url="https://eggert.org/software/Comdirect.pm"/>
                 </para>
               </entry>
             </row>
